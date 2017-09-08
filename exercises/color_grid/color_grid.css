@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    margin: .5% 5%;
+    font-size: 0px;
+}
+.palePinkFullWidth {
+    background: #F5C6D6;
+    height: 100px;
+    width: 83.7%;
+}
+.hotPinkFourQuarter {
+    display: inline-block;
+    background: #EE2E84;
+    height: 100px;
+    width: 24.1%;
+    margin-top: 9px;
+    margin-right: 9px;
+}
+.paleBlueFiftyPercent {
+    display: inline-block;
+    background: #85CFD8;
+    height: 100px;
+    width: 49%;
+    margin-top: 9px;
+    margin-right: 9px;   
+}
+.limeGreenThreeQuarters {
+    display: inline-block;
+    background: #8DC63F;
+    height: 100px;
+    width: 76%;
+    margin-top: 9px;
+    margin-right: 9px;
+}
+.orangeOneQuarter {
+    display: inline-block;
+    background: #E76E34;
+    height: 100px;
+    width: 22%;
+    margin-top: 9px;
+    margin-right: 9px;
+}

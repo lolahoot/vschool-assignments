@@ -1,0 +1,66 @@
+* {
+    background-color: lightgrey;
+}
+h1, h2 {
+    text-align: center;
+    color: dimgrey;
+    font-family: 
+}
+
+h3 {
+    text-align: left;
+    color: rebeccapurple;
+}
+span {
+    font-size: 2em;
+}
+span1 {
+    text-emphasis: bold;
+    color: slateblue;
+    font-size: 1em;
+}
+span2 {
+    text-emphasis: bold;
+    color: slateblue;
+    font-size: 1em;
+}
+span3 {
+    text-emphasis: bold;
+    color: slateblue;
+    font-size: 1em;
+}
+span4 {
+    text-emphasis: bold;
+    color: slateblue;
+    font-size: 1em;
+}
+span5 {
+    text-emphasis: bold;
+    color: slateblue;
+    font-size: 1em;
+}
+span6{
+    text-emphasis: bold;
+    color: slateblue;
+    font-size: 1em;
+}
+
+span7{
+    text-emphasis: bold;
+    color: slateblue;
+    font-size: 1em;
+}
+img {
+    resize: both;
+    width: 44.5%;
+    height: 44.5%;
+    border: 0 0;
+}
+
+article {
+    -webkit-column-count: 3;
+    border: 0 0;
+}
+ol {
+     -webkit-column-count: 3;
+}
