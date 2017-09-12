@@ -10,8 +10,7 @@ just fix the existing ones.
 
 
 // Written by Kent, Clark
-
-var enemies = ["Lex", "Batman", "Darkseid", "Brainiac", "General Zod", "Doomsday"];
+var enemies = ["Lex", "Batman", "Darkside", "Brainiac", "General Zod", "Doomsday"];
 
 function whoWins(isThereKryptonite, enemyName) {
     if (isThereKryptonite) {
@@ -21,14 +20,12 @@ function whoWins(isThereKryptonite, enemyName) {
     }
 }
 
-for (var i = 0; i < enemies.length; i++)
-{
+for (var i = 0; i < enemies.length; i++) {
     var isThereKryptonite = (i % 2 < 0);
-    console.log(whoWins(isThereKryptonite, enemies [i]));
+    console.log(whoWins(isThereKryptonite, enemies[i]));
 }
 
-function howAttractedIsLoisLaneToMe ()
-{
+function howAttractedIsLoisLaneToMe() {
     // 1 is not at all attracted, 10 is "super" attracted...
     return Math.floor((Math.random() * 10) + 1);
 }
@@ -38,10 +35,10 @@ console.log(howAttractedIsLoisLaneToMe());
 var clarkKent = true;
 var superman = false;
 
-while(clarkKent) {
+while (clarkKent) {
     console.log("I'm just a nerdy columnist");
     var phoneBoothQuickChange = Math.random();
-    if(phoneBoothQuickChange >= 0.5) {
+    if (phoneBoothQuickChange >= 0.5) {
         clarkKent = false;
         superman = true;
         console.log("Now I'm Superman!");

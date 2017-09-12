@@ -1,0 +1,13 @@
+.block {
+    border: 2px dashed red;
+    height: 200px;
+    width: 30%
+    display: inline-block;
+}
+.inline {
+    border: blue;
+    display: inline-block
+}
+li {
+    text-decoration: underline;
+}

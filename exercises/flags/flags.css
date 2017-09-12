@@ -1,0 +1,106 @@
+.france {
+    background: blue;
+    display: inline-block;
+    height: 382px;
+    width: 173px;
+}
+.block1 {
+    background: white;
+    height: 382px;
+    width: 173px;
+    display: inline-block;
+}
+.block2 {
+    background: red;
+    height: 382px;
+    width: 173px;
+    display: inline-block;
+} 
+.germany {
+    background: black;
+    height: 119px;
+    width: 500px;
+}
+.germany2 {
+    background: red;
+    height: 119px;
+    width: 500px;
+}
+.germany3 {
+    background: yellow;
+    height: 119px;
+    width: 500px;
+} 
+.madagascar {
+    background: white;
+    height: 229px;
+    width: 700px; 
+    position: relative;
+    transform: translate(100%, 100%);
+    display: inline-block
+}
+.madagascar2 {
+    background: red;
+    height: 350px;
+    width: 637px;
+    position: absolute;
+    transform: (167%, 50%);
+    display: inline-block;
+    border: 0;
+}
+.madagascar3 {
+    background: green;
+    height: 350px;
+    width: 637px;
+    position: absolute;    
+    transform: (167%, 50%);
+    display: inline-block;
+    border: 0;
+} 
+
+.switzerland {
+    background: red;
+    height: 500px;
+    width: 500px;
+    position: relative;
+}
+.switzerland2 {
+    background: white; 
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    height: 60%;
+    width: 15%;
+}
+.switzerland3 {
+    background: white;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+    height: 15%;
+    width: 60%;
+}
+
+.sweden {
+    
+}
+.gambia {
+    
+}
+.tonga {
+    
+}
+.japan {
+    
+}
+.greece {
+    
+}
+.niger {
+    
+}
+.maldives {
+    
+}
